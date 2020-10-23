@@ -1,5 +1,5 @@
-# lyxoretf-scraper
-Scrapes prices from lyxoretf. Just for my personal usage.
+# justETF-scraper
+Scrapes prices from justETF. Just for my personal usage.
 
 # Installation
 Make sure you use a virtual env or similiar.
